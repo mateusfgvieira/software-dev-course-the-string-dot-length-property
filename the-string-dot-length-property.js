@@ -26,5 +26,12 @@ let lengthThree; // Length of stringThree
 
 // Your code here
 
+lengthOne = stringOne.length;
+lengthTwo = stringTwo.length;
+lengthThree = stringThree.length;
+
+console.log('\'' + stringOne + '\' is ' + lengthOne + ' characters.');
+console.log('\'' + stringTwo + '\' is ' + lengthTwo + ' characters.');
+console.log('\'' + stringThree + '\' is ' + lengthThree + ' characters.');
 
 
